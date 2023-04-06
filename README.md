@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jelani Alexander</h1>
 <h3 align="center">A passionate frontend developer based in Japan</h3>
 
-- 🔭 I’m currently working on **The Odin Project**
+Frontend Developer | ReactJs | JavaScript | Typescript | TailwindCSS | Material UI | Firebase
 
-- 🌱 I’m currently learning **web development using the Odin project,**
+See more of my work in https://alexander-jelani-portfolio.web.app/
 
-- 📫 How to reach me **jelanialexander82@gmail.com**
+Hello, my name is Jelani Alexander, and I'm a software developer. My passion is to create user-friendly applications using a combination of frontend and backend technologies. I specialize in React, and I have recently developed a strong interest in TypeScript and Blockchain. I believe that continuous learning is essential in the tech industry, and I always strive to improve my skills.
+
+- 📫 How to reach me **jelanialexander@ymail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
