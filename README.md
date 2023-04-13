@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jelani Alexander</h1>
 <h3 align="center">A passionate frontend developer based in Japan</h3>
 
-Frontend Developer | ReactJs | JavaScript | Typescript | TailwindCSS | Material UI | Firebase
+Frontend Developer | ReactJs | JavaScript | Typescript | TailwindCSS | Material UI | Firebase| React-Native
 
 See more of my work in https://alexander-jelani-portfolio.web.app/
 
