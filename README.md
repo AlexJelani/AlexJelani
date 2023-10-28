@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jelani Alexander</h1>
 <h3 align="center">A passionate frontend developer based in Japan</h3>
 
-Frontend Developer | ReactJs | JavaScript | Typescript | TailwindCSS | Material UI | Firebase| React-Native
+Frontend Developer OpenAI API| Dall-e | Prompt Engineering| Fine-Tuning AI models | ReactJs | JavaScript | Typescript | TailwindCSS | Material UI | Firebase| React-Native
 
 See more of my work in https://alexander-jelani-portfolio.web.app/
 
-Hello, my name is Jelani Alexander, and I'm a software developer. My passion is to create user-friendly applications using a combination of frontend and backend technologies. I specialize in React, and I have recently developed a strong interest in TypeScript, React-Native, PHP, and MySQL. I believe that continuous learning is essential in the tech industry, and I always strive to improve my skills.
+Hello, my name is Jelani Alexander, and I'm a software developer. My passion is to create user-friendly applications using a combination of frontend and backend technologies. I specialize in React, and I have recently developed a strong interest in OpenAI Dall-e, and fine-tuning Ai models. I believe that continuous learning is essential in the tech industry, and I always strive to improve my skills.
 
 - 📫 How to reach me **jelanialexander@ymail.com**
 
