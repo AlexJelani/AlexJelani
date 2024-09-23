@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jelani Alexander</h1>
-<h3 align="center">A passionate frontend developer based in Japan</h3>
+<h3 align="center">A passionate Cloud / DevOps engineer based in Japan</h3>
 
-Frontend Developer OpenAI API| Dall-e | Prompt Engineering| Fine-Tuning AI models | ReactJs | JavaScript | Typescript | TailwindCSS | Material UI | Firebase| React-Native
+Cloud Engineer/Architect with a passion for Cloud Security and Web Security. I enjoy learning about cloud platforms such as AWS, Azure, and Google Cloud. I specialize in optimizing performance, ensuring scalability, and enhancing security for diverse applications. Skilled in building infrastructure using cloud services and dedicated to continuous learning and improvement.
 
-See more of my work in https://alexander-jelani-portfolio.web.app/
-
-Hello, my name is Jelani Alexander, and I'm a software developer. My passion is to create user-friendly applications using a combination of frontend and backend technologies. I specialize in React, and I have recently developed a strong interest in OpenAI Dall-e, and fine-tuning Ai models. I believe that continuous learning is essential in the tech industry, and I always strive to improve my skills.
+AWS certified Cloud Practitioner | Aws certified Solutions Architect -associate
 
 - 📫 How to reach me **jelanialexander@ymail.com**
 
