@@ -3,7 +3,7 @@
 
 Cloud Engineer/Architect with a passion for Cloud Security and Web Security. I enjoy learning about cloud platforms such as AWS, Azure, and Google Cloud. I specialize in optimizing performance, ensuring scalability, and enhancing security for diverse applications. Skilled in building infrastructure using cloud services and dedicated to continuous learning and improvement.
 
-AWS certified Cloud Practitioner | Aws certified Solutions Architect -associate
+AWS certified Cloud Practitioner | Aws certified Solutions Architect -associate | Terraform Associate | CCSK Certificate of Cloud Security Knowledge
 
 - 📫 How to reach me **jelanialexander82@gmail.com**
 
