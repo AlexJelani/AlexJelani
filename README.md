@@ -5,7 +5,7 @@ Cloud Engineer/Architect with a passion for Cloud Security and Web Security. I e
 
 AWS certified Cloud Practitioner | Aws certified Solutions Architect -associate
 
-- 📫 How to reach me **jelanialexander@ymail.com**
+- 📫 How to reach me **jelanialexander82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
