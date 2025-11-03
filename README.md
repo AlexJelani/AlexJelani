@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jelani Alexander</h1>
+<h1 align="center">Hi 👋, I'm Alex Jay</h1>
 <h3 align="center">A passionate Cloud / DevOps engineer based in Japan</h3>
 
 Cloud Engineer/Architect with a passion for Cloud Security and Web Security. I enjoy learning about cloud platforms such as AWS, Azure, and Google Cloud. I specialize in optimizing performance, ensuring scalability, and enhancing security for diverse applications. Skilled in building infrastructure using cloud services and dedicated to continuous learning and improvement.
