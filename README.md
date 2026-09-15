@@ -1,15 +1,63 @@
-<h1 align="center">Hi 👋, I'm Alex Jay</h1>
-<h3 align="center">A passionate Cloud / DevOps engineer based in Japan</h3>
+# Hi, I'm Jelani Alexander 👋
 
-Cloud Engineer/Architect with a passion for Cloud Security and Web Security. I enjoy learning about cloud platforms such as AWS, Azure, and Google Cloud. I specialize in optimizing performance, ensuring scalability, and enhancing security for diverse applications. Skilled in building infrastructure using cloud services and dedicated to continuous learning and improvement.
+**Cloud / DevOps Engineer based in Aichi, Japan** 🇯🇵
 
-AWS certified Cloud Practitioner | Aws certified Solutions Architect -associate | Terraform Associate | CCSK Certificate of Cloud Security Knowledge
+I build and operate production AWS infrastructure — Terraform, CI/CD, containers, monitoring, and security-first pipelines. Currently running cloud infrastructure solo for an e-commerce company in Japan.
 
-- 📫 How to reach me **alexander_jelani@yahoo.com**
+🇺🇸 US Citizen · 🗾 Japan Permanent Resident (no visa sponsorship needed) · 💬 Native English / Japanese BJT L4
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+## 🔧 What I work with
+
+**Cloud:** AWS (EC2, VPC, S3, ECS/Fargate, EKS, RDS, ALB, CloudWatch, IAM, Lambda) · GCP · Azure (foundational)
+
+**IaC & Automation:** Terraform (modules, remote state) · CloudFormation · Ansible
+
+**CI/CD:** GitHub Actions · GitLab CI · Jenkins · AWS CodeBuild
+
+**Containers:** Docker · Kubernetes · Helm · Amazon EKS/ECS
+
+**Monitoring & Security:** Prometheus · Grafana · Trivy · Snyk · Docker Scout · GuardDuty · least-privilege IAM · NIST/CIS frameworks
+
+**Scripting:** Python · Bash · Linux
+
+---
+
+## 🏆 Certifications (10)
+
+AWS Solutions Architect – Associate · **GCP Professional Cloud DevOps Engineer** · HashiCorp Terraform Associate · CompTIA Security+ · Google Professional Security Operations Engineer · CCSK v4 · Azure AZ-900 · Oracle OCI Foundations + AI Foundations · AWS Cloud Practitioner
+
+*Credential IDs and verification links (Credly/Accredible) available on request.*
+
+---
+
+## 🚀 Featured Projects
+
+### [aws-cloud-engineer-projects](https://github.com/AlexJelani/aws-cloud-engineer-projects)
+
+Production-style AWS workload: containerized app on **ECS Fargate behind an ALB**, VPC with public/private/DB subnets, VPC endpoints, Secrets Manager & KMS — all provisioned with Terraform.
+
+### [aws-3tier-terraform-architecture](https://github.com/AlexJelani/aws-3tier-terraform-architecture)
+
+Classic 3-tier architecture (VPC / EC2 app tier / RDS data tier) built entirely with Terraform — security groups, networking, and modular design.
+
+### [aws-ha-webapp-cdk](https://github.com/AlexJelani/aws-ha-webapp-cdk)
+
+High-availability web app via **AWS CDK**: Auto Scaling, ALB, **CloudWatch monitoring & CPU alarms**, and automated AWS Backup snapshots.
+
+### [cloud-security-devsecops-portfolio](https://github.com/AlexJelani/cloud-security-devsecops-portfolio)
+
+5 hands-on projects: multi-cloud Terraform + Checkov, DevSecOps pipeline with security gates (SAST/SCA/container scanning), GuardDuty automated response, and Kubernetes hardening.
+
+---
+
+## 📫 Contact
+
+- Email: alexander_jelani@yahoo.com
+- LinkedIn: [linkedin.com/in/jelani-alexander](https://linkedin.com/in/jelani-alexander)
+- GitHub: you're already here 🙂
+
+---
+
+*Open to Cloud / DevOps / SRE opportunities — Japan (remote or Aichi/Nagoya) and worldwide-remote roles.*
